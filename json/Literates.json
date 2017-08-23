@@ -1,0 +1,114 @@
+[
+   {
+      "Agegroup": "0-6",
+      "Literate": 0
+   },
+   {
+      "Agegroup": "7",
+      "Literate": 36156852
+   },
+   {
+      "Agegroup": "8",
+      "Literate": 45673918
+   },
+   {
+      "Agegroup": "9",
+      "Literate": 41865468
+   },
+   {
+      "Agegroup": "10",
+      "Literate": 54195204
+   },
+   {
+      "Agegroup": "11",
+      "Literate": 45504946
+   },
+   {
+      "Agegroup": "12",
+      "Literate": 50971556
+   },
+   {
+      "Agegroup": "13",
+      "Literate": 44940414
+   },
+   {
+      "Agegroup": "14",
+      "Literate": 46314768
+   },
+   {
+      "Agegroup": "15",
+      "Literate": 46598994
+   },
+   {
+      "Agegroup": "16",
+      "Literate": 44159612
+   },
+   {
+      "Agegroup": "17",
+      "Literate": 38358024
+   },
+   {
+      "Agegroup": "18",
+      "Literate": 48460344
+   },
+   {
+      "Agegroup": "19",
+      "Literate": 36560828
+   },
+   {
+      "Agegroup": "20-24",
+      "Literate": 185489460
+   },
+   {
+      "Agegroup": "25-29",
+      "Literate": 157559050
+   },
+   {
+      "Agegroup": "30-34",
+      "Literate": 128530782
+   },
+   {
+      "Agegroup": "35-39",
+      "Literate": 114555114
+   },
+   {
+      "Agegroup": "40-44",
+      "Literate": 91262480
+   },
+   {
+      "Agegroup": "45-49",
+      "Literate": 74481128
+   },
+   {
+      "Agegroup": "50-54",
+      "Literate": 56494092
+   },
+   {
+      "Agegroup": "55-59",
+      "Literate": 42927948
+   },
+   {
+      "Agegroup": "60-64",
+      "Literate": 35348536
+   },
+   {
+      "Agegroup": "65-69",
+      "Literate": 23250752
+   },
+   {
+      "Agegroup": "70-74",
+      "Literate": 15280436
+   },
+   {
+      "Agegroup": "75-79",
+      "Literate": 7742622
+   },
+   {
+      "Agegroup": "80+",
+      "Literate": 8797116
+   },
+   {
+      "Agegroup": "Age not stated",
+      "Literate": 5797180
+   }
+]
